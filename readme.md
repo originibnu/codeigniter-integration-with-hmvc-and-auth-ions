@@ -1,4 +1,5 @@
 just codeigniter 3.1.7 with HMVC integration and auth ion module, no other extras.
 
--  `HMVC <https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc>`_
--  `Ion Auth <https://github.com/benedmunds/CodeIgniter-Ion-Auth>`_
+- <a href="https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc" rel="nofollow">HMVC Module</a>
+- <a href="https://github.com/benedmunds/CodeIgniter-Ion-Auth" rel="nofollow">Ion Auth Module</a>
+
